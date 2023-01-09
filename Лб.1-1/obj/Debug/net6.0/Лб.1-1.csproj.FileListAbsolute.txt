@@ -1,0 +1,30 @@
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.AssemblyInfoInputs.cache
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.AssemblyInfo.cs
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.exe
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.deps.json
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.runtimeconfig.json
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.dll
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.pdb
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.dll
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\refint\Лб.1-1.dll
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.pdb
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.genruntimeconfig.cache
+C:\Users\Данил\source\repos\Лб.1-1\Лб.1-1\obj\Debug\net6.0\ref\Лб.1-1.dll
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.exe
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.deps.json
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.runtimeconfig.json
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.dll
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\bin\Debug\net6.0\Лб.1-1.pdb
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.csproj.AssemblyReference.cache
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.AssemblyInfoInputs.cache
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.AssemblyInfo.cs
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.csproj.CoreCompileInputs.cache
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.dll
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\refint\Лб.1-1.dll
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.pdb
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\Лб.1-1.genruntimeconfig.cache
+C:\Users\Данил\OneDrive\Рабочий стол\ВС\Лаба 1\Лб.1-1\Лб.1-1\obj\Debug\net6.0\ref\Лб.1-1.dll
